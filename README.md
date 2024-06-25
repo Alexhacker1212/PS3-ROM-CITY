@@ -1,6 +1,6 @@
 <!-- Intro -->
 
-<a href='https://postimg.cc/VrLN4zYt' target='_blank'><img src='https://i.postimg.cc/XJ9yjvms/The-Last-Of-Us1-0.jpg' border='0' alt='The-Last-Of-Us1-0'/></a>
+<img src="https://i.postimg.cc/XJ9yjvms/The-Last-Of-Us1-0.jpg" /></a>
 <h1 align="center">The Last Of Us</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <p align="center">

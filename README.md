@@ -1,6 +1,7 @@
 <!-- Intro -->
 
-<img src="https://i.postimg.cc/XJ9yjvms/The-Last-Of-Us1-0.jpg" /></a>
+<a href="https://github.com/Alexhacker1212/PS3-ROM-CITY/assets/173580098/f84c0299-40f0-4fa6-8d9f-b375e67fb035
+" target="_blank"><img src="https://i.postimg.cc/XJ9yjvms/The-Last-Of-Us1-0.jpg" /></a>
 <h1 align="center">The Last Of Us</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <p align="center">
